@@ -1,0 +1,11 @@
+# Ignore compiled executables
+# .vscode
+*.exe
+*.out
+*.o
+*.a
+*.so
+*.dll
+*.dylib
+*.plist
+*.yml
