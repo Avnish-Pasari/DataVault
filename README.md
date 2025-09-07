@@ -1,4 +1,4 @@
-# Key-Value Store Database 📦
+# DataVault – High-Performance Key-Value Store 📦
 
 A high-performance **Key-Value (KV) Store** database system implemented in **C++17**. 
 This project demonstrates modern database design concepts such as **Memtables, SSTables, Buffer Pools, B-Trees, and LSM Trees with Bloom Filters**.  
